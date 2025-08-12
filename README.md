@@ -2,18 +2,29 @@
 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권 스터디를 하며 내용 정리하였습니다.
 
 ## Content
-### [1장 사용자 수에 따른 규모 확장성](chapter01/Scalability.md)
-### [2장 개략적인 규모 추정](chapter02/Estimate_Of_Scale.md)
-### [3장 시스템 설계 면접 공략법](chapter03/system-design-interview.md)
-### [4장 처리율 제한 장치의 설계](chapter04/Rate_Limiter.md)
-### [5장 안정 해시 설계](chapter05/Consistent_Hashing.md)
-### [6장 키-값 저장소 설계](chapter06/key-value-store.md)
-### 7장 분산 시스템을 위한 유일ID 생성기 설계
-### 8장 URL 단축기 설계
-### 9장 웹 크롤러 설계
-### 10장 알림 시스템 설계
-### 11장 뉴스 피드 시스템 설계
-### 12장 채팅 시스템 설계
+**[1장 사용자 수에 따른 규모 확장성](chapter01/Scalability.md)**
+
+**[2장 개략적인 규모 추정](chapter02/Estimate_Of_Scale.md)**
+
+**[3장 시스템 설계 면접 공략법](chapter03/system-design-interview.md)**
+
+**[4장 처리율 제한 장치의 설계](chapter04/Rate_Limiter.md)**
+
+**[5장 안정 해시 설계](chapter05/Consistent_Hashing.md)**
+
+**[6장 키-값 저장소 설계](chapter06/key-value-store.md)**
+
+7장 분산 시스템을 위한 유일ID 생성기 설계
+
+8장 URL 단축기 설계
+
+9장 웹 크롤러 설계
+
+10장 알림 시스템 설계
+
+11장 뉴스 피드 시스템 설계
+
+12장 채팅 시스템 설계
 
 ## 주차별 진행
 - 1주차(2025.07.22 ~ 2025.07.29): 1, 2, 3장
